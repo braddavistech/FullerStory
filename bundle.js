@@ -561,7 +561,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 let placeholder = document.getElementById("Main");
-let images = ["../images/statue.JPG", "../images/statue1.JPG", "../images/statue2.JPG", "../images/statue3.JPG"];
+let images = ["./images/statue.JPG", "./images/statue1.JPG", "./images/statue2.JPG", "./images/statue3.JPG"];
 const Statue = {
   main() {
     window.scrollTo(0, 0);
