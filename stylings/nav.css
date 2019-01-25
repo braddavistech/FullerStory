@@ -38,6 +38,7 @@
   padding: 1vw;
   display: table;
   border-radius: 13px;
+  background-color: var(--navbar-background-color);
 }
 
 .markers_menu {
@@ -52,6 +53,7 @@
   padding: 1vw;
   display: table;
   border-radius: 13px;
+  background-color: var(--navbar-background-color);
 }
 
 .menu {
@@ -160,6 +162,7 @@
   padding: .5vw;
   display: table;
   border-radius: 9px;
+  background-color: var(--navbar-background-color);
 }
 
 .markers_menu {
@@ -175,6 +178,7 @@
   padding: .5vw;
   display: table;
   border-radius: 9px;
+  background-color: var(--navbar-background-color);
 }
 
 .menu {
